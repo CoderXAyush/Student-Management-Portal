@@ -110,11 +110,3 @@ Images are from [Unsplash](https://unsplash.com)
 
    Then Add Email and Password
 
-
-### Student Dashboard
-
-#### Dark Mode
-![Student Dark](screenshots/student_dark.png)
-
-#### Light Mode
-![Student Light](screenshots/student_light.png)
