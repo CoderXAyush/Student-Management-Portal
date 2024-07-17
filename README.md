@@ -110,37 +110,6 @@ Images are from [Unsplash](https://unsplash.com)
 
    Then Add Email and Password
 
-## Screenshots
-
-### APIs
-
-#### List of APIs
-![APIs List](screenshots/Apis_list.png)
-
-#### Hostel Management APIs
-![Hostel APIs](screenshots/Hostel_apis.png)
-
-#### Library Management APIs
-![Library APIs](screenshots/Library_apis.png)
-
-#### No Dues Management APIs
-![No-Dues APIs](screenshots/No-Dues_apis.png)
-
-### Admin Dashboard
-
-#### Dark Mode
-![Admin Dark](screenshots/admin_dark.png)
-
-#### Light Mode
-![Admin Light](screenshots/admin_light.png)
-
-### Staff Dashboard
-
-#### Dark Mode
-![Staff Dark](screenshots/staff_dark.png)
-
-#### Light Mode
-![Staff Light](screenshots/staff_light.png)
 
 ### Student Dashboard
 
